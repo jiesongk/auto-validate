@@ -1,0 +1,114 @@
+Microsoft Research License Agreement
+Non-Commercial Use Only
+ 
+This Microsoft Research License Agreement, including all exhibits (MSR-LA) is a
+legal agreement between you and Microsoft Corporation (Microsoft or we) for the
+data as more fully described in Exhibit A, which may include associated
+materials, text or speech files, associated media and online or electronic
+documentation and any updates we provide in our discretion (together, the
+Data).
+ 
+By installing, copying, or otherwise using this Data, found at
+https://github.com/jiesongk/auto-validate, you agree to be
+bound by the terms of this MSR-LA. If you do not agree, do not install copy or
+use the Data. The Data is protected by copyright and other intellectual
+property laws and is licensed, not sold.
+SCOPE OF RIGHTS:
+ 
+You may use and copy this Data for any non-commercial purpose, subject to the
+restrictions in this MSR-LA. Some purposes which can be non-commercial are
+academic research, personal experimentation and running benchmarking tests.
+ 
+You may not use or distribute this Data or any derivative works in any form for
+commercial purposes. Examples of commercial purposes would be running business
+operations, licensing, leasing, or selling the Data, distributing the Data for
+use with commercial products, using the Data in the creation or use of
+commercial products or any other activity which purpose is to procure a
+commercial gain to you or others.
+ 
+If you distribute the Data or any derivative works of the Data, you will do so
+only upon prior express written authorization from Microsoft and distribute
+them under the same terms and conditions as in this license, and you will not
+grant other rights to the Data or derivative works that are different from
+those provided by this MSR-LA.
+ 
+If you have created derivative works of the Data, and distribute such
+derivative works, you will cause the modified files to carry prominent notices
+so that recipients know that they are not receiving the original Data. Such
+notices must state: (i) that you have changed the Data; and (ii) the date of
+any changes.
+ 
+In return, we simply require that you agree:
+ 
+   1. That you will not remove any copyright or other notices from the Data.
+   2. That if any of the Data is in binary format, you will not attempt to
+modify such portions of the Data, or to reverse engineer or decompile them,
+except and only to the extent authorized by applicable law.
+   3. That Microsoft is granted back, without any restrictions or limitations,
+a non-exclusive, perpetual, irrevocable, royalty-free, assignable and
+sub-licensable license, to reproduce, publicly perform or display, install,
+use, modify, post, distribute, make and have made, sell and transfer your
+modifications to and/or derivative works of the Data, including but not limited
+to the results and analysis of any tests that are run by or conducted by you
+with or for the Data, for any purpose.
+   4. That any feedback about the Data provided by you to us is voluntarily
+given, and Microsoft shall be free to use the feedback as it sees fit without
+obligation or restriction of any kind, even if the feedback is designated by
+you as confidential.
+   5. CONFIDENTIAL INFORMATION. The Data is confidential and proprietary to
+Microsoft and its suppliers (Confidential Information).
+ 
+      a. Use. For five years after installation of the Data or its commercial
+release, whichever is first, you may not disclose such Confidential Information
+to third parties. You may disclose Confidential Information only to your
+employees and consultants who need to know the information. You must have
+written agreements with them that protect the Confidential Information at least
+as much as this agreement.
+ 
+      b. Survival. Your duty to protect Confidential Information survives this
+agreement.
+ 
+      c. Exclusions. You may disclose Confidential Information in response to a
+judicial or governmental order. You must first give written notice to Microsoft
+to allow it to seek a protective order or otherwise protect the information.
+Confidential Information does not include information that
+          * becomes publicly known through no wrongful act;
+          * You received from a third party who did not breach confidentiality
+obligations to Microsoft or its suppliers; or
+          * You developed independently.
+   6. Term of MSR-LA. This MSR-LA will terminate on the commercial release of
+the Data, unless earlier terminated by Microsoft in writing at any time without
+cause. Upon termination, you will cease use of the Data, and if so requested,
+promptly return to Microsoft, or certify destruction of, all full or partial
+copies of the Data provided by Microsoft.
+   7. THAT THE DATA COMES AS IS, WITH NO WARRANTIES. THIS MEANS NO EXPRESS,
+IMPLIED OR STATUTORY WARRANTY, INCLUDING WITHOUT LIMITATION, WARRANTIES OF
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, ANY WARRANTY AGAINST
+INTERFERENCE WITH YOUR ENJOYMENT OF THE DATA OR ANY WARRANTY OF TITLE OR
+NON-INFRINGEMENT. THERE IS NO WARRANTY THAT THIS DATA WILL FULFILL ANY OF YOUR
+PARTICULAR PURPOSES OR NEEDS.
+   8. THAT NEITHER MICROSOFT NOR ANY CONTRIBUTOR TO THE DATA WILL BE LIABLE FOR
+ANY DAMAGES RELATED TO THE DATA OR THIS MSR-LA, INCLUDING DIRECT, INDIRECT,
+SPECIAL, CONSEQUENTIAL OR INCIDENTAL DAMAGES, TO THE MAXIMUM EXTENT THE LAW
+PERMITS, NO MATTER WHAT LEGAL THEORY IT IS BASED ON. 7. That we have no duty of
+reasonable care or lack of negligence, and we are not obligated to (and will
+not) provide technical support for the Data.
+   9. That if you breach this MSR-LA or if you sue anyone over patents that you
+think may apply to or read on the Data or anyone's use of the Data, this MSR-LA
+(and your license and rights obtained herein) terminate automatically. Upon any
+such termination, you shall destroy all of your copies of the Data immediately.
+Sections 3, 4, 5, 6, 7, 8, 11 and 12 of this MSR-LA shall survive any
+termination of this MSR-LA.
+  10. That the patent rights, if any, granted to you in this MSR-LA only apply
+to the Data, not to any derivative works you make, and are limited to your use
+of the Data under this MSR-LA.
+  11. That the Data may be subject to U.S. export jurisdiction at the time it
+is licensed to you, and it may be subject to additional export or import laws
+in other places. You agree to comply with all such laws and regulations that
+may apply to the Data after delivery of the Data to you.
+  12. That all rights not expressly granted to you in this MSR-LA are reserved.
+  13. That this MSR-LA shall be construed and controlled by the laws of the
+State of Washington, USA, without regard to conflicts of law. If any provision
+of this MSR-LA shall be deemed unenforceable or contrary to law, the rest of
+this MSR-LA shall remain in full effect and interpreted in an enforceable
+manner that most nearly captures the intent of the original language.
