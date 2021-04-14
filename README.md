@@ -14,7 +14,7 @@
 
 ## License
 
-This data set is released under the [Computational Use of Data Agreement v1.0](https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/master/C-UDA-1.0.md). 
+This data set is released under the [Microsoft Research License Agreement](https://github.com/jiesongk/auto-validate/blob/main/MSR-LA) foor non-coommercial use only. 
 
  
 
