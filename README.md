@@ -14,7 +14,7 @@
 
 ## License
 
-This data set is released under the [Microsoft Research License Agreement](https://github.com/jiesongk/auto-validate/blob/main/MSR-LA) foor non-coommercial use only. 
+This data set is released under the [Microsoft Research License Agreement](https://github.com/jiesongk/auto-validate/blob/main/MSR-LA) for non-coommercial use only. 
 
  
 
